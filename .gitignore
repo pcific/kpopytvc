@@ -1,0 +1,8 @@
+*.gz
+*.tar
+*.log
+*.secret
+*.secure
+perl/
+bin/
+
