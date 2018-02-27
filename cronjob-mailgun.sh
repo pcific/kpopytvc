@@ -1,12 +1,9 @@
 #!/bin/bash
 
-[ -z "$YTVC_DIR" ] && source /home/pcific/kpopytvc/setEnv.bash ;
-cd ${YTVC_DIR}
+[ -z "$YTVC_DIR" ] && source /home/pcific/kpopytvc/setEnv.sh && cd ${YTVC_DIR} 
 
 ./generate-report-txt.sh > report.txt
-if [ ! -s ./report.txt ] ; then
- exit 1
-fi
+[ ! -s ./report.txt ] && exit 1
 
 ./generate-report-html.pl > report.html
 

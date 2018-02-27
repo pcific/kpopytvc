@@ -3,6 +3,9 @@
 *.log
 *.secret
 *.secure
+report.txt
+report.html
+tmp*
 perl/
 bin/
 

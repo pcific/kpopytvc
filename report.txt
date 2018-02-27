@@ -1,8 +1,9 @@
-# 2018-02-19
+# 2018-02-20
 --------------------------------------------------------------
-secret garden        ohmygirl   41d     4,345,099      +57,876
-first love           yuju       76d       856,810       +1,836
-heart signal         yuju      115d     1,056,060       +1,858
-hold your hand       eunha     116d     1,008,120       +1,633
+secret garden        ohmygirl   42d     4,421,865      +76,766
+first love           yuju       77d       859,407       +2,597
+first love           yuju       77d       859,407       +2,597
+heart signal         yuju      116d     1,058,706       +2,646
+hold your hand       eunha     117d     1,010,295       +2,175
 --------------------------------------------------------------
 
